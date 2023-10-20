@@ -18,7 +18,7 @@
  * ```
  * All file system operations have synchronous, callback, and promise-based
  * forms, and are accessible using both CommonJS syntax and ES6 Modules (ESM).
- * @see [source](https://github.com/GTM-Software/fleet-dashboard.git)
+ * @see [source](https://github.com/ankurdotcom/SimpleLogger4Node.git)
  */
 
 const fs = require("fs");
